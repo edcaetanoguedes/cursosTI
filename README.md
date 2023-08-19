@@ -122,4 +122,3 @@ https://codered.eccouncil.org/course/digital-forensics-essentials?logged=false
 https://codered.eccouncil.org/course/network-defense-essentials?logged=false  
 
 ---
-##SIGA NO TIKTOK: @xoryus <3
